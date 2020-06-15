@@ -1,7 +1,7 @@
 # [Paper Dashboard 2 PRO](https://demos.creative-tim.com/paper-dashboard-2-pro/examples/dashboard.html)  
 
 
-![version](https://img.shields.io/badge/version-2.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-2-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-2-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-2-pro/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-2.3.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-2-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-2-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-2-pro/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Paper Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/84/original/opt_pd2p_thumbnail.jpg?1526481078)
 
